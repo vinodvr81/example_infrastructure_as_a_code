@@ -1,0 +1,13 @@
+# Ignore environment files
+.env
+
+# Ignore generated JSON configuration
+service_config.json
+
+# Ignore Python cache and virtual environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.envrc
